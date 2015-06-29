@@ -13,7 +13,7 @@
         "lodash": "~3.6.0"
     },
     "packageDependencies": {
-        "terminal": "CodeboxIDE/package-terminal",
-        "project": "CodeboxIDE/package-project"
+        "terminal": "code-box/package-terminal",
+        "project": "code-box/package-project"
     }
 }
